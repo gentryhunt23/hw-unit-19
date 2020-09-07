@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "LeBron James",
+        "department": "GOAT",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 2,
+        "name": "Kobe Bryant",
+        "department": "Mamba",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 3,
+        "name": "Kareem Abdul Jabbar",
+        "department": "Sky Hook",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 4,
+        "name": "Magic Johnson",
+        "department": "No Look",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 5,
+        "name": "Shaquille O'Neal",
+        "department": "Basket Reconstruction",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 6,
+        "name": "James Worthy",
+        "department": "big game",
+        "email": "Lakers@in5.com"
+    },
+    {
+        "id": 7,
+        "name": "Jerry West",
+        "department": "Logo",
+        "email": "Lakers@in5.com"
+    }
+]
